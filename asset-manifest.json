@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yegotachi.github.io/csb-4plnh/static/css/main.3a047e12.chunk.css",
+    "main.js": "https://yegotachi.github.io/csb-4plnh/static/js/main.a87bfac1.chunk.js",
+    "main.js.map": "https://yegotachi.github.io/csb-4plnh/static/js/main.a87bfac1.chunk.js.map",
+    "runtime-main.js": "https://yegotachi.github.io/csb-4plnh/static/js/runtime-main.a6190e0a.js",
+    "runtime-main.js.map": "https://yegotachi.github.io/csb-4plnh/static/js/runtime-main.a6190e0a.js.map",
+    "static/js/2.8578ac82.chunk.js": "https://yegotachi.github.io/csb-4plnh/static/js/2.8578ac82.chunk.js",
+    "static/js/2.8578ac82.chunk.js.map": "https://yegotachi.github.io/csb-4plnh/static/js/2.8578ac82.chunk.js.map",
+    "index.html": "https://yegotachi.github.io/csb-4plnh/index.html",
+    "static/css/main.3a047e12.chunk.css.map": "https://yegotachi.github.io/csb-4plnh/static/css/main.3a047e12.chunk.css.map",
+    "static/js/2.8578ac82.chunk.js.LICENSE.txt": "https://yegotachi.github.io/csb-4plnh/static/js/2.8578ac82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6190e0a.js",
+    "static/js/2.8578ac82.chunk.js",
+    "static/css/main.3a047e12.chunk.css",
+    "static/js/main.a87bfac1.chunk.js"
+  ]
+}
